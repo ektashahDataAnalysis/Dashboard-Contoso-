@@ -10,7 +10,6 @@ The report is designed to give a clear view of business performance while allowi
 ## What I Worked On
 
 * Built and formatted **KPI Cards with Sparklines**
-* Added **Field Parameters** for dynamic analysis
 * Added **Error Bars** to visualizations
 * Customized bar chart formatting and shape
 * Added a **custom map visual** for geographic analysis
@@ -40,7 +39,6 @@ The report looks at:
 * DAX
 * Power Query
 * Data Modeling
-* Field Parameters
 * Sparklines
 * Error Bars
 * Custom Map Visual
@@ -61,7 +59,7 @@ The report looks at:
 
 ## Dataset
 
-A reduced version of the Contoso dataset is included with the project to keep the Power BI file suitable for GitHub while maintaining the data needed for the dashboard analysis.
+A reduced version of the Contoso dataset is included with the project to keep the Power BI file suitable for GitHub while maintaining the data needed for the dashboard analysis.(The actual data set was 5 million Rows)
 
 ## Screenshots
 
